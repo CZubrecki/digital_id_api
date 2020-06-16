@@ -2,9 +2,9 @@
     "type": "mysql",
     "host": "localhost",
     "port": 3306,
-    "username": "root",
-    "password": "ck738xw80000001me4qvcdaus",
-    "database": "digital_id",
+    "username": "admin",
+    "password": "*U48pJ7TRiGfA6fa",
+    "database": "database-1",
     "entities": [
         "dist/**/*.entity{.ts,.js}"
     ],
